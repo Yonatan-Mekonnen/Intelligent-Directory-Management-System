@@ -1,0 +1,2 @@
+# Intelligent-Directory-Management-System
+The Intelligent Directory Management System (IDMS) is a backend user interface (UI) that allows for the creation, modification, and deletion of data from the Directory. The Directory is the front end portion that anyone using the Internet can navigate to and see the content of available contact and their their corresponding listings with an intelligent searching algorithm encompassing a word pronunciation.
